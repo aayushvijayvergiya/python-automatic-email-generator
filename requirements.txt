@@ -1,0 +1,4 @@
+environs==9.5.0   # https://github.com/sloria/environs
+pytest            # https://docs.pytest.org/en/7.4.x/
+requests==2.31.0  # https://docs.python-requests.org/en/latest/
+weather_codes
